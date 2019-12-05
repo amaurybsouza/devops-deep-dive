@@ -1,8 +1,0 @@
----
-# vars file for create
-instance_type: t2.micro
-security_group: giropops
-image: ami-00a208c7cdba991ea
-keypair: semanadevops-ansible
-region: us-east-1
-count: 3
