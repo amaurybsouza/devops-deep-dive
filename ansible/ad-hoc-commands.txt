@@ -1,0 +1,3 @@
+ansible semanadevops -m shell -a "mkdir /tmp/amaury"
+
+ansible semanadevops -m ping
