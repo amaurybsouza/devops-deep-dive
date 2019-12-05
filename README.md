@@ -1,3 +1,5 @@
 ## Ansible | Semana DevOps
 
-Para que você siga o passo a passo do case usando o Ansible, peço que acesse meu blog no Medium e execute as etapas para proviosamento das instâncias na AWS.
+Criando um playbook para provisionamento de 5 instâncias EC2 na AWS usando Ansible.
+
+Peço que acesse meu blog no Medium e execute as etapas para proviosamento das instâncias no AWS EC2.
