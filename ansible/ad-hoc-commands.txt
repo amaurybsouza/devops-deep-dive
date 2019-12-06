@@ -1,3 +1,9 @@
 ansible semanadevops -m shell -a "mkdir /tmp/amaury"
 
 ansible semanadevops -m ping
+
+https://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent
+
+eval `ssh-agent -s`
+
+ssh-add semanadevops-ansible.pem
